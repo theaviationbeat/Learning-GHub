@@ -11,6 +11,7 @@
 		1565AB602799EB810023DC71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565AB5F2799EB810023DC71 /* ContentView.swift */; };
 		1565AB622799EB830023DC71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1565AB612799EB830023DC71 /* Assets.xcassets */; };
 		1565AB652799EB830023DC71 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1565AB642799EB830023DC71 /* Preview Assets.xcassets */; };
+		1565AB6C2799F07A0023DC71 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565AB6B2799F07A0023DC71 /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1565AB5F2799EB810023DC71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1565AB612799EB830023DC71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1565AB642799EB830023DC71 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1565AB6B2799F07A0023DC71 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		1565AB5C2799EB800023DC71 /* GitHub Practice */ = {
 			isa = PBXGroup;
 			children = (
+				1565AB6B2799F07A0023DC71 /* MyModel.swift */,
 				1565AB5D2799EB800023DC71 /* GitHub_PracticeApp.swift */,
 				1565AB5F2799EB810023DC71 /* ContentView.swift */,
 				1565AB612799EB830023DC71 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1565AB602799EB810023DC71 /* ContentView.swift in Sources */,
+				1565AB6C2799F07A0023DC71 /* MyModel.swift in Sources */,
 				1565AB5E2799EB800023DC71 /* GitHub_PracticeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
